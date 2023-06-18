@@ -49,7 +49,7 @@ The game tracks the number of remaining lives and updates the word display as th
 
 ## Objective Oriented Programming
 
-The Hangman Game employs principles of object-oriented programming to organize the code into classes and functions, enhancing code modularity and reusability. It also incorporates error handling and input validation to ensure a smooth user experience and prevent unexpected errors.
+The Hangman Game employs principles of object-oriented programming to organize the code into classes and functions, enhancing code modularity and reusability.
 
 The game code is well-structured and documented, making it easy to understand and extend for future enhancements or modifications.
 
@@ -64,6 +64,8 @@ Any unauthorized use, copying, modification, distribution, or reproduction of th
 To obtain permission for any use, copying, modification, distribution, or reproduction of this software, please contact the copyright holder at the following address:
 
 ```zenksilva@gmail.com```
-
-By using this software, you acknowledge that you have read and understood the terms of this license and agree to comply with all applicable copyright laws. Failure to abide by the terms of this license may subject you to legal consequences.
+<br>
+<br>
+<br>
+```By using this software, you acknowledge that you have read and understood the terms of this license and agree to comply with all applicable copyright laws. Failure to abide by the terms of this license may subject you to legal consequences.```
 
